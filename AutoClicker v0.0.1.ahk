@@ -2,7 +2,7 @@
 Gui, Show, w200 h100, clic
 Gui, Add, Text, x20 y40 w200, F1 to toggle on F2 to toggle off
 Gui,+AlwaysOnTop
--- has no delay interface
+;has no delay interface
 toggle := false
 
 F1::  
