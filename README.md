@@ -1,4 +1,4 @@
-AutoClicker made in ahk
+AutoClicker made in ahk, the Enabled and Disabled state does update
 
 ![alt text](https://i.ibb.co/xKbSZgy0/Screenshot-2025-05-09-155953.png)
 
